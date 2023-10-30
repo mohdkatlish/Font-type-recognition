@@ -4,9 +4,8 @@ Adobe.Inc is developed an AI reserch about font detection using the deep learnin
 
 
 
-- Building the CNN model using Tensorflow fram work and we use the Keras library to create the layers.
-- trained the model on AdobeVFR Dataset which contains 2383 Font Categories 
-- trained the model on  
+- Building the CNN model using Tensorflow framwork and we use the Keras library to create the layers.
+- trained the model on AdobeVFR Dataset which contains 2383 Font Categories  
 
 
 
